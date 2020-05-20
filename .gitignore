@@ -10,6 +10,9 @@
 #   git rm -r .ipynb_checkpoints/
 #
 
+# ignore text file
+insights.txt
+
 ### macOS ###
 # General
 .DS_Store
